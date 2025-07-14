@@ -39,5 +39,5 @@ This project aims to explore the emotional and musical characteristics of game s
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/brentwill18/game-music-analyzer.git
-   cd game-music-analyzer
+   git clone https://github.com/brentwill18/vgm-analyzer.git
+   cd "Game Music Analyzer"
